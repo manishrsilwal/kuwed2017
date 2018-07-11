@@ -1,0 +1,30 @@
+/*
+Theme Name: Sydney Child
+Description: Child theme for WED
+Author: Manish Raj Silwal
+Template: sydney
+*/
+
+/* write custom css below */
+
+
+.page .page-wrap .content-wrapper, .single .page-wrap .content-wrapper {
+    padding: 0px !important;
+} 
+
+.entry-footer {
+    margin-top: 0px !important;
+}
+
+.content-area .hentry {
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+}
+
+.page .entry-header {
+    margin-bottom: 0px !important;
+}
+
+.site-logo {
+    max-height: 155px !important;
+}
